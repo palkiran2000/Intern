@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Intern/static/css/main.a617e044.chunk.css",
-    "main.js": "/Intern/static/js/main.8dcac024.chunk.js",
-    "main.js.map": "/Intern/static/js/main.8dcac024.chunk.js.map",
+    "main.js": "/Intern/static/js/main.e8dc191b.chunk.js",
+    "main.js.map": "/Intern/static/js/main.e8dc191b.chunk.js.map",
     "runtime-main.js": "/Intern/static/js/runtime-main.bb710209.js",
     "runtime-main.js.map": "/Intern/static/js/runtime-main.bb710209.js.map",
     "static/js/2.7d454155.chunk.js": "/Intern/static/js/2.7d454155.chunk.js",
@@ -11,12 +11,14 @@
     "static/js/3.b0c12b9f.chunk.js.map": "/Intern/static/js/3.b0c12b9f.chunk.js.map",
     "index.html": "/Intern/index.html",
     "static/css/main.a617e044.chunk.css.map": "/Intern/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.7d454155.chunk.js.LICENSE.txt": "/Intern/static/js/2.7d454155.chunk.js.LICENSE.txt"
+    "static/js/2.7d454155.chunk.js.LICENSE.txt": "/Intern/static/js/2.7d454155.chunk.js.LICENSE.txt",
+    "static/media/LOGO_OF_LOGO.22297b3f.svg": "/Intern/static/media/LOGO_OF_LOGO.22297b3f.svg",
+    "static/media/herosection.869219a9.png": "/Intern/static/media/herosection.869219a9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bb710209.js",
     "static/js/2.7d454155.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.8dcac024.chunk.js"
+    "static/js/main.e8dc191b.chunk.js"
   ]
 }
